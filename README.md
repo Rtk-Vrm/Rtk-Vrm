@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritik Verma
-- 👀 I’m interested in working in python and Artificial Intelligence.
-- 🌱 I’m currently learning machine Learning.
+- 👀 I’m interested in working in python and MERN stack.
+- 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on pyhton projects.
 - 📫 How to reach me ritik01verma@gmail.com
 
